@@ -1,18 +1,14 @@
 # Docs:
 
-- [`PHP`](https://github.com/2h-docs/php) 
-- [`C++`](https://github.com/2h-docs/cpp) 
-- [`JavaScipt`](https://github.com/2h-docs/javascript) 
-- [`Python`](https://github.com/2h-docs/python) 
+- [`PHP`](https://github.com/bogvsz00/2h-docs/tree/main/php)
+- [`C++`](https://github.com/bogvsz00/2h-docs/tree/main/c%2B%2B)
+- [`JavaScipt`](https://github.com/bogvsz00/2h-docs/tree/main/javascript) 
+- [`Python`](https://github.com/bogvsz00/2h-docs/tree/main/python) 
 
 | **PHP**  	| **C++** 	| **JavaScript** 	| **Python** 	|
 |----------	|---------	|----------------	|------------	|
-| [30.10.23](https://github.com/2h-docs/php/30-10-23) 	|         	|                	|            	|
-| [06.11.23](https://github.com/2h-docs/php/06-11-23) 	|         	|                	|            	|
-|          	|         	|                	|            	|
-|          	|         	|                	|            	|
-|          	|         	|                	|            	|
-|          	|         	|                	|            	|
+| [30.10.23](https://github.com/bogvsz00/2h-docs/tree/main/php/30-10-23) 	|         	|                	|            	|
+| [06.11.23](https://github.com/bogvsz00/2h-docs/tree/main/php/06-11-23) 	|         	|                	|            	|
 |          	|         	|                	|            	|
 
 
@@ -33,10 +29,11 @@
 
  - PHP
 	 - Databases:
-		- PHP & phpMyAdmin
-		- {E} Biblioteka informacji o filmach
+		- [PHP & phpMyAdmin](https://github.com/bogvsz00/2h-docs/tree/main/php/30-10-23/)
+		- [{E} Biblioteka informacji o filmach](https://github.com/bogvsz00/2h-docs/tree/main/php/06-11-23/)
  - C++
  - JavaScript
  - Python
 
-### ⚠️ Commit your own files!
+### ✏️ Markdown live-writing tool: [StackEdit.io](https://stackedit.io/app#)
+### ⚠️ Dont copy&paste!
